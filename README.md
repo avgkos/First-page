@@ -1,3 +1,3 @@
 ## Моя первая страница
-- Простой лэндинг [просмтор](https://avgkos.github.io/First-page/)
+- Простой лэндинг [посмотреть](https://avgkos.github.io/First-page/)
 - Сайт пекарни
